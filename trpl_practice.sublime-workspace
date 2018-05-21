@@ -1,0 +1,1865 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"has",
+				"hasGroup\t(OptionTable.jsx)"
+			],
+			[
+				"accou",
+				"accountGroup"
+			],
+			[
+				"accounti",
+				"accountIDs"
+			],
+			[
+				"accountI",
+				"accountIDs"
+			],
+			[
+				"new",
+				"newName"
+			],
+			[
+				"account",
+				"account_group_name"
+			],
+			[
+				"acc",
+				"accountGroup"
+			],
+			[
+				"accountGr",
+				"accountGroup"
+			],
+			[
+				"accountG",
+				"accountGroups"
+			],
+			[
+				"account_gro",
+				"account_group_name"
+			],
+			[
+				"category",
+				"categoryID"
+			],
+			[
+				"grou",
+				"grouped"
+			],
+			[
+				"groupe",
+				"groupedCompany"
+			],
+			[
+				"catg",
+				"categoryID"
+			],
+			[
+				"accountCa",
+				"accountCategoryIDs"
+			],
+			[
+				"cate",
+				"category_id"
+			],
+			[
+				"categ",
+				"categoryID\t(SetupCoaConcern.js)"
+			],
+			[
+				"class",
+				"classnames"
+			],
+			[
+				"grouped",
+				"groupedAccountIDs"
+			],
+			[
+				"add",
+				"addAccountGroup"
+			],
+			[
+				"accountsBy",
+				"accountsByName"
+			],
+			[
+				"selected",
+				"selectedAccountCategoryID"
+			],
+			[
+				"prp",
+				"props\tReact: this.props"
+			],
+			[
+				"current",
+				"currentCompanyGroup"
+			],
+			[
+				"account_cage",
+				"account_category_id"
+			],
+			[
+				"ac",
+				"account"
+			],
+			[
+				"Setup",
+				"SetupCoaConcern"
+			],
+			[
+				"SetupC",
+				"SetupCoaConcern\t(SetupCoaConcern.js)"
+			],
+			[
+				"isC",
+				"isCurrentCompany"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"selectedA",
+				"selectedAccounts"
+			],
+			[
+				"Acc",
+				"account"
+			],
+			[
+				"sele",
+				"selectedAccounts"
+			],
+			[
+				"selec",
+				"selectedCategoryID"
+			],
+			[
+				"seel",
+				"selectedCategoryID"
+			],
+			[
+				"account_cate",
+				"account_category_id\t(Account.js)"
+			],
+			[
+				"select",
+				"selectedAccounts"
+			],
+			[
+				"render",
+				"renderAccountCheckbox"
+			],
+			[
+				"toggle",
+				"toggleCheckAccount\t(SetupCoaPage.jsx)"
+			],
+			[
+				"toggl",
+				"toggleCheckAccount"
+			],
+			[
+				"Map",
+				"MapToProps"
+			],
+			[
+				"compan",
+				"companyID"
+			],
+			[
+				"st",
+				"store\t(index.js)"
+			],
+			[
+				"Ex",
+				"extends"
+			],
+			[
+				"to",
+				"toggleCheck"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"acco",
+				"account"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"accounts",
+				"accountsByCompanyAndCategory"
+			],
+			[
+				"_g",
+				"_groupBy"
+			],
+			[
+				"company_group_",
+				"company_group_name\t(account_group_entity.rb)"
+			],
+			[
+				"pr",
+				"props\tReact: this.props"
+			],
+			[
+				"fetch",
+				"fetchAccountCategories"
+			],
+			[
+				"debg",
+				"debugger\t(Gemfile)"
+			],
+			[
+				"Form",
+				"FormGroup"
+			],
+			[
+				"Fla",
+				"FlashMessage\t(FlashMessage.js)"
+			],
+			[
+				"alertCla",
+				"alertClasses"
+			],
+			[
+				"on",
+				"onRemove"
+			],
+			[
+				"alert",
+				"alertClass\t(Alert.jsx)"
+			],
+			[
+				"messag",
+				"message\t(Alert.jsx)"
+			],
+			[
+				"alertcl",
+				"alertClassName"
+			],
+			[
+				"cla",
+				"className\t(SelectCompaniesPage.jsx)"
+			],
+			[
+				"No",
+				"NoMatch"
+			],
+			[
+				"ROu",
+				"Route"
+			],
+			[
+				"Com",
+				"Company"
+			],
+			[
+				"selecte",
+				"selectedCompanies"
+			],
+			[
+				"default",
+				"defaultProps\t(ActionButton.jsx)"
+			],
+			[
+				"Select",
+				"SelectCompaniesPage\t(SelectCompaniesPage.jsx)"
+			],
+			[
+				"Comp",
+				"Component"
+			],
+			[
+				"ext",
+				"extends\t(ActionButton.jsx)"
+			],
+			[
+				"COmp",
+				"Component"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"sub",
+				"submitting"
+			],
+			[
+				"curren",
+				"currentCompany"
+			],
+			[
+				"next",
+				"nextProps"
+			],
+			[
+				"curr",
+				"currentCompany"
+			],
+			[
+				"company",
+				"company_group"
+			],
+			[
+				"comp",
+				"company_name"
+			],
+			[
+				"h",
+				"history"
+			],
+			[
+				"company_",
+				"company_group"
+			],
+			[
+				"compa",
+				"companies"
+			],
+			[
+				"Api",
+				"ApiController\t(companies_controller.rb)"
+			],
+			[
+				"cls",
+				"classNames"
+			],
+			[
+				"clas",
+				"classNames"
+			],
+			[
+				"scro",
+				"scrollToBottomOfContainer"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"handleMou",
+				"handleMouseMove"
+			],
+			[
+				"handleMouse",
+				"handleMouseEnter"
+			],
+			[
+				"handle",
+				"handleMouseDown"
+			],
+			[
+				"COmpanyP",
+				"CompanyOptionComponent"
+			],
+			[
+				"Selec",
+				"SelectCompaniesPage"
+			],
+			[
+				"opt",
+				"optional\t(RootStore.js)"
+			],
+			[
+				"valu",
+				"valueComponent"
+			],
+			[
+				"handl",
+				"handleRemove"
+			],
+			[
+				"defaul",
+				"defaultSelected"
+			],
+			[
+				"nex",
+				"nextProps"
+			],
+			[
+				"Sele",
+				"Select"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"current_com",
+				"current_company_group_id\t(RootStore.js)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Compa",
+				"CompanyGroup"
+			],
+			[
+				"COmpna",
+				"CompanyGroup"
+			],
+			[
+				"api",
+				"apiPath"
+			],
+			[
+				"setCurr",
+				"setCurrentCompanyGroup\t(User.store.js)"
+			],
+			[
+				"curre",
+				"current_company_id"
+			],
+			[
+				"user",
+				"userStore\t(RootStore.js)"
+			],
+			[
+				"currentCompany",
+				"currentCompanyGroup"
+			],
+			[
+				"COmpan",
+				"CompanyGroup"
+			],
+			[
+				"Co",
+				"Company"
+			],
+			[
+				"fetchm",
+				"fetchNewCompanyGroup"
+			],
+			[
+				"companyGro",
+				"companyGroupStore"
+			],
+			[
+				"COmpany",
+				"CompanyGroup\t(CompanyGroup.store.js)"
+			],
+			[
+				"mode",
+				"modelName"
+			],
+			[
+				"COm",
+				"CompanyGroup"
+			],
+			[
+				"map",
+				"MapToProps"
+			],
+			[
+				"l",
+				"list"
+			],
+			[
+				"get",
+				"getRoot"
+			],
+			[
+				"Compan",
+				"CompanyStore"
+			],
+			[
+				"sto",
+				"storeFactory"
+			],
+			[
+				"co",
+				"component"
+			],
+			[
+				"typs",
+				"types"
+			],
+			[
+				"mobx",
+				"mobx-state-tree\t(Company.js)"
+			],
+			[
+				"asse",
+				"asset_host"
+			],
+			[
+				"pre",
+				"present"
+			],
+			[
+				"Bat",
+				"BatmanStore"
+			],
+			[
+				"Stor",
+				"Stores\t(environment.js)"
+			],
+			[
+				"Ro",
+				"Routes\t(index.jsx)"
+			],
+			[
+				"ROut",
+				"Routes"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Channel"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"ver",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"vers",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"so",
+				"Sort Lines"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa ",
+				"Package Control: List Packages"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"dpul",
+				"File: Duplicate"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"versi",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"moe",
+				"File: Move"
+			],
+			[
+				"RENM",
+				"Rename File"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"renm",
+				"File: Rename"
+			],
+			[
+				"sublimelin",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"blm",
+				"Git: Blame"
+			],
+			[
+				"editorc",
+				"Snippet: editorconfig"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"git ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"git c",
+				"Git: Checkout Current File"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git ver",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"dee",
+				"File: Delete"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"requ",
+				"Require"
+			],
+			[
+				"require",
+				"Require"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ruby on",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"bable",
+				"Babel Transform"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"BLAM",
+				"Git: Blame"
+			],
+			[
+				"version",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"blma",
+				"Git: Blame"
+			],
+			[
+				"git vers",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"yam",
+				"Cheatsheet: Yaml"
+			],
+			[
+				"git checek",
+				"Git: Checkout Current File"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"requi",
+				"Require"
+			],
+			[
+				"renma",
+				"Rename File"
+			],
+			[
+				"babl",
+				"Babel Transform"
+			],
+			[
+				"req",
+				"Require"
+			],
+			[
+				"reu",
+				"Require"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"GIT CHEC",
+				"Git: Checkout Current File"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git versio",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"rqu",
+				"Require"
+			],
+			[
+				"jaav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"js wi",
+				"Set Syntax: JS Custom - JS with Pug"
+			],
+			[
+				"d",
+				"File: Delete"
+			],
+			[
+				"jscu ",
+				"Set Syntax: JS Custom - Pug"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"js pu",
+				"Set Syntax: JS Custom - Pug"
+			],
+			[
+				"js pug",
+				"Set Syntax: JS Custom - Pug"
+			],
+			[
+				"ukz",
+				"Set Syntax: JS Custom - Ukz"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"pack lis",
+				"Package Control: List Packages"
+			],
+			[
+				"js w",
+				"Set Syntax: JS with Pug"
+			],
+			[
+				"packa up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"upca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"versio",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"un",
+				"Permute Lines: Unique"
+			],
+			[
+				"schem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"newv",
+				"File: New View into File"
+			],
+			[
+				"new vi",
+				"File: New View into File"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"gt cheko",
+				"Git: Checkout Current File"
+			],
+			[
+				"new v",
+				"File: New View into File"
+			],
+			[
+				"git d",
+				"Git: Diff Current File"
+			],
+			[
+				"bas",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"git chece",
+				"Git: Checkout Current File"
+			]
+		],
+		"width": 533.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jurnal/repos/trpl_practice"
+	],
+	"file_history":
+	[
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/inits/Routes.js",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/components/partials/SetupCoaPage/OptionTable.jsx",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/models/concerns/SetupCoaConcern.js",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/assets/styles/SetupCoaPage.scss",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/models/RootStore.js",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/models/Account.js",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/components/CreateWorksheetPage.jsx",
+		"/Users/jurnal/repos/company_consolidation/app/controllers/api/account_groups_controller.rb",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/assets/styles/Colors.scss",
+		"/Users/jurnal/repos/company_consolidation/package.json",
+		"/Users/jurnal/repos/company_consolidation/log/test.log",
+		"/Users/jurnal/repos/company_consolidation/.ruby-version",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/components/partials/SetupCoaPage/SelectedGroupTable.jsx",
+		"/Users/jurnal/repos/company_consolidation/app/controllers/api/company_groups_controller.rb",
+		"/Users/jurnal/repos/company_consolidation/app/interfaces/account_finder.rb",
+		"/Users/jurnal/repos/company_consolidation/config/jurnal_readonly_database.yml",
+		"/Users/jurnal/repos/company_consolidation/app/controllers/api/companies_controller.rb",
+		"/Users/jurnal/repos/company_consolidation/Gemfile",
+		"/Users/jurnal/repos/company_consolidation/app/controllers/application_controller.rb",
+		"/Users/jurnal/repos/company_consolidation/app/repositories/company_group_repository.rb",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/components/SelectCompaniesPage.jsx",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/models/AccountGroup.js",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/components/SetupCoaPage.jsx",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/models/CompanyGroup.js",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/assets/styles/SelectCompaniesPage.scss",
+		"/Users/jurnal/repos/company_consolidation/app/services/jurnal_api.rb",
+		"/Users/jurnal/repos/company_consolidation/app/controllers/api_controller.rb",
+		"/Users/jurnal/.zprofile",
+		"/Users/jurnal/repos/company_consolidation/.dockerignore",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/components/TableWorksheetPage.jsx",
+		"/Users/jurnal/repos/company_consolidation/package-lock.json",
+		"/Users/jurnal/Desktop/BugRoster.txt",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/index.js",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/components/partials/SelectCompaniesPage/CompanyMultiSelect.jsx",
+		"/Users/jurnal/repos/company_consolidation/app/models/company_group.rb",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/utils/MapToProps.js",
+		"/Users/jurnal/repos/company_consolidation/.gitignore",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/components/common/ActionButton.jsx",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/Utils/PleaseWaitHOC.js",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/components/NoMatchPage.jsx",
+		"/Users/jurnal/repos/company_consolidation/config/locales/en.yml",
+		"/Users/jurnal/repos/company_consolidation/app/views/home/react_app.html.erb",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/components/utils/NoMatchPage.jsx",
+		"/Users/jurnal/repos/company_consolidation/docker/docker-compose.yml",
+		"/Users/jurnal/repos/company_consolidation/app/interfaces/read_only_db_base.rb",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/assets/styles/index.scss",
+		"/Users/jurnal/repos/company_consolidation/app/controllers/api/account_categories_controller.rb",
+		"/Users/jurnal/repos/company_consolidation/.rspec",
+		"/Users/jurnal/repos/company_consolidation/spec/spec_helper.rb",
+		"/Users/jurnal/repos/company_consolidation/.postcssrc.yml",
+		"/Users/jurnal/repos/company_consolidation/.editorconfig",
+		"/Users/jurnal/repos/company_consolidation/company_consolidation.sublime-project",
+		"/Users/jurnal/repos/company_consolidation/bitbucket-pipelines.yml",
+		"/Users/jurnal/repos/company_consolidation/.babelrc",
+		"/Users/jurnal/repos/company_consolidation/task-definitions/company-consolidation-td-template.json",
+		"/Users/jurnal/repos/company_consolidation/app/entities/account_group_entity.rb",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/models/AccountCategory.js",
+		"/Users/jurnal/repos/company_consolidation/app/interfaces/company_finder.rb",
+		"/Users/jurnal/repos/company_consolidation/app/javascript/src/utils/RangeArray.js",
+		"/Users/jurnal/repos/company_consolidation/config/routes.rb",
+		"/Users/jurnal/repos/company_consolidation/.eslintrc",
+		"/Users/jurnal/repos/company_consolidation/config/application.rb",
+		"/Users/jurnal/repos/company_consolidation/app/controllers/home_controller.rb",
+		"/Users/jurnal/.zshrc",
+		"/Users/jurnal/repos/company_consolidation/config/environment.rb",
+		"/Users/jurnal/repos/company_consolidation/spec/repositories/company_group_repository_spec.rb",
+		"/Users/jurnal/repos/company_consolidation/spec/rails_helper.rb",
+		"/Users/jurnal/repos/company_consolidation/spec/repository/company_group_repository_spec.rb",
+		"/Users/jurnal/repos/company_consolidation/lib/jurnal.rb",
+		"/Users/jurnal/repos/company_consolidation/config/initializers/jurnal_api.rb",
+		"/Users/jurnal/repos/company_consolidation/test/models/company_group_test.rb",
+		"/Users/jurnal/repos/company_consolidation/test/models/member_company_test.rb",
+		"/Users/jurnal/repos/company_consolidation/test/application_system_test_case.rb",
+		"/Users/jurnal/repos/company_consolidation/test/test_helper.rb",
+		"/Users/jurnal/Documents/company_consolidation/lib/jurnal.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/utils/I18n.js",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/inits/FaIcons.js",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/utils/MapToProps.js",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/components/LoadingPage.jsx",
+		"/Users/jurnal/Documents/company_consolidation/app/interfaces/company_finder.rb",
+		"/Users/jurnal/Documents/company_consolidation/config/database.yml",
+		"/Users/jurnal/Documents/company_consolidation/app/controllers/application_controller.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/views/layouts/application.html.erb",
+		"/Users/jurnal/Documents/company_consolidation/config/initializers/globalstore.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/controllers/api/company_groups_controller.rb",
+		"/Users/jurnal/Documents/company_consolidation/.eslintrc",
+		"/Users/jurnal/Documents/company_consolidation/config/initializers/inflections.rb",
+		"/Users/jurnal/Documents/company_consolidation/config/application.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/controllers/api/companies_controller.rb",
+		"/Users/jurnal/Documents/company_consolidation/db/migrate/20180504091150_temporary_fix_add_company_id_to_member_companies.rb",
+		"/Users/jurnal/Documents/company_consolidation/db/migrate/20180504091008_temporary_fix_add_company_id.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/inits/Routes.js",
+		"/Users/jurnal/Documents/company_consolidation/app/controllers/api/account_groups_controller.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/views/api/company_groups/create.json.jbuilder",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/assets/styles/SelectCompaniesPage.scss",
+		"/Users/jurnal/Documents/company_consolidation/config/locales/en.yml",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/components/partials/SelectCompaniesPage/CompanyMultiSelect.jsx",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/components/SelectCompaniesPage.jsx",
+		"/Users/jurnal/Documents/company_consolidation/app/views/api/company_groups/index.json.jbuilder",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/components/partials/SelectCompaniesPage/CompanyValue.jsx",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/components/partials/SelectCompaniesPage/CompanyOption.jsx",
+		"/Users/jurnal/Documents/company_consolidation/config/routes.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/index.js",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/components/PinkSpan/index.jsx",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/components/common/ActionButton.jsx",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/models/RootStore.js",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/models/CompanyGroup.js",
+		"/Users/jurnal/Documents/company_consolidation/app/models/company_group.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/components/PinkSpan/styles.scss",
+		"/Users/jurnal/Documents/company_consolidation/package.json",
+		"/Users/jurnal/Documents/company_consolidation/config/locales/id.yml",
+		"/Users/jurnal/Documents/company_consolidation/app/repositories/company_group_repository.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/models/Company.js",
+		"/Users/jurnal/Documents/company_consolidation/app/controllers/api_controller.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/components/partials/SelectCompaniesPage/CompanyValueComponent.jsx",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/components/partials/SelectCompaniesPage/CompanyOptionComponent.jsx",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/assets/styles/index.scss",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/assets/styles/Colors.scss",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/assets/styles/Font.scss",
+		"/Users/jurnal/Documents/company_consolidation/config/webpack/environment.js",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/styles/SelectCompaniesPage.scss",
+		"/Users/jurnal/Documents/company_consolidation/app/views/api/companies/index.json.jbuilder",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/assets/styles/WelcomePage.scss",
+		"/Users/jurnal/Documents/company_consolidation/app/controllers/api/company_group_controller.rb",
+		"/Users/jurnal/Documents/company_consolidation/app/views/api/company_groups/new.json.jbuilder",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/state/stores/CompanyStore.js",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/inits/RootStore.js",
+		"/Users/jurnal/Documents/company_consolidation/app/javascript/src/state/stores/CompanyGroupStore.js"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 168.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 36.0
+	},
+	"output.YAMLMacros":
+	{
+		"height": 150.0
+	},
+	"output.exec":
+	{
+		"height": 37.0
+	},
+	"output.find_results":
+	{
+		"height": 696.0
+	},
+	"output.git":
+	{
+		"height": 148.0
+	},
+	"output.markdown":
+	{
+		"height": 151.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trpl_practice.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"app/javascript/src/components/MainMenuPage.jsx"
+			],
+			[
+				"rout",
+				"app/javascript/src/inits/Routes.js"
+			],
+			[
+				"eslin",
+				".eslintrc"
+			],
+			[
+				"pleas",
+				"app/javascript/src/utils/PleaseWaitHOC.js"
+			],
+			[
+				"mainm",
+				"app/javascript/src/components/MainMenuPage.jsx"
+			],
+			[
+				"setupco",
+				"app/javascript/src/models/concerns/SetupCoaConcern.js"
+			],
+			[
+				"account.j",
+				"app/javascript/src/models/Account.js"
+			],
+			[
+				"accountgr",
+				"app/javascript/src/models/AccountGroup.js"
+			],
+			[
+				"setupcoa",
+				"app/javascript/src/models/concerns/SetupCoaConcern.js"
+			],
+			[
+				"setupcoac",
+				"app/javascript/src/models/concerns/SetupCoaConcern.js"
+			],
+			[
+				"account",
+				"app/javascript/src/models/AccountGroup.js"
+			],
+			[
+				"mainmen",
+				"app/javascript/src/components/MainMenuPage.jsx"
+			],
+			[
+				"root",
+				"app/javascript/src/models/RootStore.js"
+			],
+			[
+				"accountgroup",
+				"app/javascript/src/models/AccountGroup.js"
+			],
+			[
+				"setupc",
+				"app/javascript/src/models/concerns/SetupCoaConcern.js"
+			],
+			[
+				"concer",
+				"app/javascript/src/models/concerns/SetupCoaConcern.js"
+			],
+			[
+				"setup",
+				"app/javascript/src/components/SetupCoaPage.jsx"
+			],
+			[
+				"ot",
+				"app/javascript/src/components/partials/SetupCoaPage/OptionTable.jsx"
+			],
+			[
+				"jurnal",
+				"config/jurnal_readonly_database.yml"
+			],
+			[
+				"account group ",
+				"app/controllers/api/account_groups_controller.rb"
+			],
+			[
+				"setupcoaco",
+				"app/javascript/src/models/concerns/SetupCoaConcern.js"
+			],
+			[
+				"colo",
+				"app/javascript/src/assets/styles/Colors.scss"
+			],
+			[
+				"color",
+				"app/javascript/src/assets/styles/Colors.scss"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"opt",
+				"app/javascript/src/components/partials/SetupCoaPage/OptionTable.jsx"
+			],
+			[
+				"table.",
+				"app/javascript/src/components/partials/SetupCoaPage/SelectedGroupTable.jsx"
+			],
+			[
+				"option",
+				"app/javascript/src/components/partials/SetupCoaPage/OptionTable.jsx"
+			],
+			[
+				"roo",
+				"app/javascript/src/models/RootStore.js"
+			],
+			[
+				"ro",
+				"app/javascript/src/models/RootStore.js"
+			],
+			[
+				"select",
+				"app/javascript/src/components/SelectCompaniesPage.jsx"
+			],
+			[
+				"accountg",
+				"app/javascript/src/models/AccountGroup.js"
+			],
+			[
+				"company group cont",
+				"app/controllers/api/company_groups_controller.rb"
+			],
+			[
+				"accountgro",
+				"app/javascript/src/models/AccountGroup.js"
+			],
+			[
+				"SelectedGroupTable",
+				"app/javascript/src/components/partials/SetupCoaPage/SelectedGroupTable.jsx"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"companygroup",
+				"app/javascript/src/models/CompanyGroup.js"
+			],
+			[
+				"companygro",
+				"app/javascript/src/models/CompanyGroup.js"
+			],
+			[
+				"in",
+				"app/javascript/src/assets/styles/index.scss"
+			],
+			[
+				"select ",
+				"app/javascript/src/assets/styles/SelectCompaniesPage.scss"
+			],
+			[
+				"co g con",
+				"app/controllers/api/company_groups_controller.rb"
+			],
+			[
+				"applic",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"company group cot",
+				"app/controllers/api/company_groups_controller.rb"
+			],
+			[
+				"appli",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"api company ",
+				"app/controllers/api/company_groups_controller.rb"
+			],
+			[
+				"jurna",
+				"app/services/jurnal_api.rb"
+			],
+			[
+				"application",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"apicon",
+				"app/controllers/api_controller.rb"
+			],
+			[
+				"companytgr",
+				"app/repositories/company_group_repository.rb"
+			],
+			[
+				"ACCOUNT GROUP CON",
+				"app/controllers/api/account_groups_controller.rb"
+			],
+			[
+				"jurnal_readonly_database",
+				"config/jurnal_readonly_database.yml"
+			],
+			[
+				"ReadOnlyDbBase",
+				"app/interfaces/read_only_db_base.rb"
+			],
+			[
+				"AccountFinder",
+				"app/interfaces/account_finder.rb"
+			],
+			[
+				"companygroupcon",
+				"app/controllers/api/company_groups_controller.rb"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"accountcateg",
+				"app/interfaces/account_category_finder.rb"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"pack",
+				"package-lock.json"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"CompanyGroupsController",
+				"app/controllers/api/company_groups_controller.rb"
+			],
+			[
+				"company group",
+				"app/models/company_group.rb"
+			],
+			[
+				"companygroucon",
+				"app/controllers/api/company_groups_controller.rb"
+			],
+			[
+				"",
+				"app/services/jurnal_api.rb"
+			],
+			[
+				"jurn",
+				"app/services/jurnal_api.rb"
+			],
+			[
+				"companymu",
+				"app/javascript/src/components/partials/SelectCompaniesPage/CompanyMultiSelect.jsx"
+			],
+			[
+				"api companygroup",
+				"app/controllers/api/company_groups_controller.rb"
+			],
+			[
+				"ActionButton",
+				"app/javascript/src/components/common/ActionButton.jsx"
+			],
+			[
+				"accoutn",
+				"app/javascript/src/models/Account.js"
+			],
+			[
+				"nom",
+				"app/javascript/src/components/NoMatchPage.jsx"
+			],
+			[
+				"html.erb",
+				"app/views/home/react_app.html.erb"
+			],
+			[
+				"en.",
+				"config/locales/en.yml"
+			],
+			[
+				"mapto",
+				"app/javascript/src/utils/MapToProps.js"
+			],
+			[
+				"OptionTable",
+				"app/javascript/src/components/partials/SetupCoaPage/OptionTable.jsx"
+			],
+			[
+				"readon",
+				"app/interfaces/read_only_db_base.rb"
+			],
+			[
+				"dock",
+				"docker/docker-compose.yml"
+			],
+			[
+				"inde.j",
+				"app/javascript/src/index.js"
+			],
+			[
+				"inde",
+				"app/javascript/src/assets/styles/index.scss"
+			],
+			[
+				"company grou cont",
+				"app/controllers/api/company_groups_controller.rb"
+			],
+			[
+				"spec h",
+				"spec/spec_helper.rb"
+			],
+			[
+				"range",
+				"app/javascript/src/utils/RangeArray.js"
+			],
+			[
+				"utils.",
+				"app/javascript/src/utils/MapToProps.js"
+			],
+			[
+				"optio",
+				"app/javascript/src/components/partials/SetupCoaPage/OptionTable.jsx"
+			],
+			[
+				"account group co",
+				"app/controllers/api/account_groups_controller.rb"
+			],
+			[
+				"companie",
+				"app/controllers/api/companies_controller.rb"
+			],
+			[
+				"account group",
+				"app/controllers/api/account_groups_controller.rb"
+			],
+			[
+				"account.",
+				"app/javascript/src/models/Account.js"
+			],
+			[
+				"roots",
+				"app/javascript/src/models/RootStore.js"
+			],
+			[
+				"companyg",
+				"app/javascript/src/models/CompanyGroup.js"
+			],
+			[
+				"setupcoa.s",
+				"app/javascript/src/assets/styles/SetupCoa.scss"
+			],
+			[
+				"AccountCategory",
+				"app/javascript/src/models/AccountCategory.js"
+			],
+			[
+				"accountca",
+				"app/javascript/src/models/AccountCategory.js"
+			],
+			[
+				"esli",
+				".eslintrc"
+			],
+			[
+				"otiontb",
+				"app/javascript/src/components/partials/SetupCoaPage/OptionTable.jsx"
+			],
+			[
+				"company group con",
+				"app/controllers/api/company_groups_controller.rb"
+			],
+			[
+				"compn",
+				"app/models/company_group.rb"
+			],
+			[
+				"setupcoapag",
+				"app/javascript/src/components/SetupCoaPage.jsx"
+			],
+			[
+				"comp",
+				"app/interfaces/company_finder.rb"
+			],
+			[
+				"api comp",
+				"app/controllers/api/companies_controller.rb"
+			],
+			[
+				"api con",
+				"app/controllers/api_controller.rb"
+			],
+			[
+				"companyf",
+				"app/interfaces/company_finder.rb"
+			],
+			[
+				"companygo",
+				"app/javascript/src/models/CompanyGroup.js"
+			],
+			[
+				"accountgroupe",
+				"app/entities/account_group_entity.rb"
+			],
+			[
+				"account.js",
+				"app/javascript/src/models/Account.js"
+			],
+			[
+				"homeco",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"control",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"home",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"ju",
+				"app/services/jurnal_api.rb"
+			],
+			[
+				"docker",
+				"docker/docker-compose.yml"
+			],
+			[
+				"jurnal ap",
+				"app/services/jurnal_api.rb"
+			],
+			[
+				"config environment",
+				"config/environment.rb"
+			],
+			[
+				"bitb",
+				"bitbucket-pipelines.yml"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"CompanyFinder",
+				"app/interfaces/company_finder.rb"
+			],
+			[
+				"CompanyGroupRepository",
+				"app/repositories/company_group_repository.rb"
+			],
+			[
+				"spec hel",
+				"spec/spec_helper.rb"
+			],
+			[
+				"bitbu",
+				"bitbucket-pipelines.yml"
+			],
+			[
+				"companyfin",
+				"app/interfaces/company_finder.rb"
+			],
+			[
+				"company",
+				"app/javascript/src/models/CompanyGroup.js"
+			],
+			[
+				"bit",
+				"bitbucket-pipelines.yml"
+			],
+			[
+				"spec ",
+				"spec/spec_helper.rb"
+			],
+			[
+				"spec.rb",
+				"spec/repository/company_group_repository_spec.rb"
+			],
+			[
+				"company group repo",
+				"spec/repository/company_group_repository_spec.rb"
+			],
+			[
+				"company group rep",
+				"spec/repositories/company_group_repository_spec.rb"
+			],
+			[
+				"companygrouprepo",
+				"app/repositories/company_group_repository.rb"
+			],
+			[
+				".rs",
+				".rspec"
+			],
+			[
+				"spec_helper",
+				"spec/spec_helper.rb"
+			],
+			[
+				"test he",
+				"test/test_helper.rb"
+			],
+			[
+				"i18n",
+				"app/javascript/src/utils/I18n.js"
+			],
+			[
+				"ind",
+				"app/javascript/src/index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/repos/quickbook/qb.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
